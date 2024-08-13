@@ -36,3 +36,15 @@ body {
     font-family: monospace;
     font-weight: 600;
 }
+
+.btn {
+    background-color: #1c1f52;
+    color: white;
+    border: 0;
+    padding: 1.5rem .5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: .5rem;
+    cursor: pointer;
+}
